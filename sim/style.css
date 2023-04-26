@@ -1,0 +1,27 @@
+.produtos{
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+.produtos li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    box-sizing: border-box;
+    border: 2px solid #000;
+    border-radius: 10px;
+}
+.produtos li:hover{
+    border-color: rgb(109, 46, 4);
+}
+#trufa{
+    width: 200px;
+}
+#pastel{
+    width: 200px;
+}
+#lasanha{
+    width: 200px;
+}
